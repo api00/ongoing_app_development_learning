@@ -1,8 +1,0 @@
-{
-    "files.autoSave": "afterDelay",
-    "files.autoSaveDelay": 500,
-    "dart.flutterGenerateLocalizationsOnSave": "all",
-    "dart.flutterHotReloadOnSave": "all",
-    "dart.hotReloadOnSave": "all",
-    "workbench.colorTheme": "Default Dark Modern"
-}
