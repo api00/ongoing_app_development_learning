@@ -17,8 +17,7 @@ This app provides a straightforward interface where users can input an amount in
 To run this app locally on your machine, follow these steps:
 
 1. **Clone the Repository:**
-git clone https://github.com/yourusername/currency_converter_flutter.git
-
+https://github.com/api00/ongoing_app_development_learning.git
 
 2. **Navigate to the Project Directory:**
 cd currency_converter_flutter
